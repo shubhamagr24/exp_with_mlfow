@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/427915824940372518/f40e4625452a404fb275245edb5867cc/artifacts
+end_time: 1739205825716
+entry_point_name: ''
+experiment_id: '427915824940372518'
+lifecycle_stage: active
+run_id: f40e4625452a404fb275245edb5867cc
+run_name: adaptable-pig-604
+run_uuid: f40e4625452a404fb275245edb5867cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739205822992
+status: 3
+tags: []
+user_id: shubhamagarwal
